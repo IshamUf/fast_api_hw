@@ -11,3 +11,4 @@
 8. Задеплоить веб сервис (я выбрал render.com)
 
 Автор: https://github.com/IshamUf
+python-version = 3.7
